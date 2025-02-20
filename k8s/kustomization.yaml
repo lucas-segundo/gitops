@@ -9,4 +9,4 @@ namespace: main
 images:
 - name: goserver
   newName: lucasfernandesapp/fc
-  newTag: nova2
+  newTag: 02557b15bdd20d99669afc1c31f6c0675df9a705
